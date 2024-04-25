@@ -118,7 +118,7 @@ Download the MSRS dataset from [this link](https://github.com/Linfeng-Tang/MSRS)
 
 <img src="emma_img//Quantitative.png" width="100%" align=center />
 
-MM detection and MM segmentation
+### MM detection and MM segmentation
 
 <img src="emma_img//MMDet.png" width="100%" align=center />
 
