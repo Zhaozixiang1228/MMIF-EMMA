@@ -48,7 +48,7 @@ Our EMMA is implemented in ``Ufuser.py``.
 
 **1. Pre-trained models**
 
-Pre-trained models are available in ``'./model/EMMA.pth'``, ``'./model/Ai.pth'`` and ``'./model/Av.pth'``, which are responsible for the U-Fuser $\mathcal{F}(\cdot,\cdot)$ and Pseudo sensing module $\mathcal{A}_i(\cdot)$ and $\mathcal{A}_v(\cdot)$, respectively. 
+Pre-trained models are available in ``'./model/EMMA.pth'``, ``'./model/Ai.pth'`` and ``'./model/Av.pth'``, which are responsible for the U-Fuser $\mathcal{F}(\cdot,\cdot)$ and Pseudo sensing module $\mathcal{A}_i(\cdot)$ and $\mathcal{A}_v(\cdot)$, respectively. ``'./model/Ai.pth'`` and ``'./model/Av.pth'`` need to be downloaded from [google drive](https://drive.google.com/drive/folders/1Zb9NDW4lZh_jCdv1BIqI1wbYmGSmbpUp?usp=sharing).
 
 **2. Test datasets**
 
