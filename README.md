@@ -122,15 +122,21 @@ Download the MSRS dataset from [this link](https://github.com/Linfeng-Tang/MSRS)
 
 <img src="emma_img//MMDet.png" width="100%" align=center />
 
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Zhaozixiang1228/MMIF-EMMA&type=Date)](https://star-history.com/#Zhaozixiang1228/MMIF-EMMA&Date)
+
 ## 📖 Related Work
+- Zixiang Zhao, Lilun Deng, Haowen Bai, Yukun Cui, Zhipeng Zhang, Yulun Zhang, Haotong Qin, Dongdong Chen, Jiangshe Zhang, Peng Wang, Luc Van Gool. *Image Fusion via Vision-Language Model.* **ICML 2024**, https://arxiv.org/abs/2402.02235.
 
 - Zixiang Zhao, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool.  
 *DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.* **ICCV 2023 (Oral)**.    
-https://arxiv.org/abs/2303.06840
+https://arxiv.org/abs/2303.06840.
 
 - Zixiang Zhao, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Shuang Xu, Zudi Lin, Radu Timofte, Luc Van Gool.   
 *CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion.* **CVPR 2023**.   
-https://arxiv.org/abs/2211.14461
+https://arxiv.org/abs/2211.14461.
 
 - Zixiang Zhao, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang and Pengfei Li.   
 *DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion.* **IJCAI 2020**.   
