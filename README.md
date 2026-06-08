@@ -3,9 +3,10 @@ Codes for ***Equivariant Multi-Modality Image Fusion. (CVPR 2024)***
 
 [Zixiang Zhao](https://zhaozixiang1228.github.io/), [Haowen Bai](), [Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang), [Yulun Zhang](https://yulunzhang.com/), [Kai Zhang](https://cszn.github.io/), [Shuang Xu](https://shuangxu96.github.io/), [Dongdong Chen](http://dongdongchen.com/), [Radu Timofte](https://www.informatik.uni-wuerzburg.de/computervision/home/) and [Luc Van Gool](https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjQ4LC0xOTcxNDY1MTc4.html).
 
--[*[Paper]*]()  
+-[*[Project Page]*](https://zhaozixiang1228.github.io/Project/EMMA/)  
+-[*[Paper]*](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Equivariant_Multi-Modality_Image_Fusion_CVPR_2024_paper.html)  
 -[*[ArXiv]*](https://arxiv.org/abs/2305.11443)  
--[*[Supplementary Materials]*]()  
+-[*[Supplementary Materials]*](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Zhao_Equivariant_Multi-Modality_Image_CVPR_2024_supplemental.pdf)  
 
 
 ## Update
